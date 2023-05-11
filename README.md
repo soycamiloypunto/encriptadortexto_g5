@@ -1,7 +1,9 @@
 <div align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" width="200"/></div>
 
 # 🚀 Challenge Encriptador | Oracle + Alura
-https://github.com/soycamiloypunto/encriptadortexto_g5/blob/main/Captura%20de%20pantalla%202023-05-11%20133355.png 
+
+<div align="center"><img src="https://github.com/soycamiloypunto/encriptadortexto_g5/blob/main/Captura%20de%20pantalla%202023-05-11%20133355.png" width="600"/></div>
+
 
 
 # 📝 Descripción
