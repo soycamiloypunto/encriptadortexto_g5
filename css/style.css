@@ -1,13 +1,13 @@
 :root{
-    --light-blue-100: #F3F5FC;
-    --dark-blue-300: #0A3871;
-    --dark-gray-500: #343A40;
-    --dark-gra-400: #495057;
+    --light-blue-100: #ffbfb0;
+    --dark-blue-300: #c63637;
+    --dark-gray-500: #c2504c;
+    --dark-gra-400: #ff6961;
 }
 
 *{
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
     font-family: "Trirong", serif;
 }
 
@@ -16,8 +16,8 @@ body{
 }
 
 .display-grid{
-    max-width: 1440px;
-    height: 100vh;
+    max-width: 100%;
+    height: 650px;
     display: grid;
     grid-template-columns: 120px 2fr max-content;
     gap: 20px;
