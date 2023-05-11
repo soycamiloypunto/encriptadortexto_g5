@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+    <title>Encriptador</title>
+</head>
+<body>
+    <main class="display-grid">
+        <div class="izquierda">
+            <img src="images/Logo.png" alt="Logo Alura">
+        </div>
+        <div class="centro">
+            <textarea name="texto" id="inptTextArea" placeholder="Ingresa el texto aquí"></textarea>
+            <div class="advertencia">
+                <small>Solo letras minúsculas y sin acentos</small>
+            </div>
+            <div class="botones">
+                <button id="btn_encriptar">Encriptar</button>
+                <button id="btn_desencriptar">Desencriptar</button>
+            </div>
+        </div>
+        <div class="derecha">
+            <div class="caja-encriptador">
+                <img class="preinformacion" src="images/Muneco.png" alt="Mensaje Vacío">
+                <h2 class="preinformacion" >Ningún mensaje fue encontrado</h2>
+                <span class="preinformacion" >Ingresa el texto que desees encriptar o desencriptar.</span>
+                <textarea id="area_texto" id="inpt_texto" placeholder="Ingresa el texto aquí"></textarea>
+                <button id="btn_copiar">Copiar</button>
+            </div>
+        </div>
+    </main>
+    <footer>
+       <div class="Desarrollador">
+            <p>Cristian Camilo Tabares</p>
+       </div>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
